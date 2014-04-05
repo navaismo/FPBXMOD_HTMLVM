@@ -1,0 +1,23 @@
+<module>
+        <rawname>htmlvm</rawname>
+        <name>HTML_Voicemail_Template</name>
+        <version>0.1</version>
+        <type>tool</type>
+        <publisher>Navaismo</publisher>
+        <license>GPLv2+</license>
+        <description>
+                Provides a page to create a HTML template to deliver Voicemails 
+        </description>
+ 	<changelog>
+                *0.1* First Release (Ultrabeta)
+        </changelog>
+        <info>navaismo@gmail.com</info>
+        <category>Unsupported</category>
+        <menuitems>
+                <htmlvm category="Settings">HTML Voicemail</htmlvm>
+        </menuitems>
+</module>
+
+
+
+
